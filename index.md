@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+## About Me
+
+<img class="profile-picture" src="me.jpg">
+
+Currently, I'm a research assistant under the supervision of <a href="https://staff.ki.se/people/nghvu">Prof. Nghia Vu</a> and <a href="http://fafner.meb.ki.se/personal/yudpaw/" target="_blank">Prof. Yudi Pawitan</a> at Department of Medical Epidemiology and Biostatistics, Karolinska Institutet. My interesting research focuses on developments of computational methods for genomic data.
+
+Email: <a href="mailto:quang.thinh.trac@ki.se">quang.thinh.trac{at}ki.se</a> \| Github: <a href="https://github.com/tracquangthinh">tracquangthinh</a>
+
+## Education
+
+Year | University | Country
+------|-------|--
+2020 - Present | RA - Karolinska Institutet | <img src="img/sweden.png" style="width:32px;height:32px;display: block;margin-left: auto;margin-right: auto;">
+2018 - 2019 | Msc. - Japan Advanced Institute of Science and Technology| <img src="img/japan.png" style="width:32px;height:32px;display: block;margin-left: auto;margin-right: auto;">
+2013 - 2017 | Bsc. - VNU University of Engineering and Technology| <img src="img/vietnam.png" style="width:32px;height:32px;display: block;margin-left: auto;margin-right: auto;">
+
+<!-- Here is a blockquote
+
+> To a great mind, nothing is little -->
+
+## Publications
+
+1. Trung Nghia Vu, Wenjiang Deng, **Quang Thinh Trac**, Stefano Calza, WoochangHwang, Yudi Pawitan. A fast detection of fusion genes from paired-end RNA-seq data,BMC Genomics 2018 19:786. <a href="https://doi.org/10.1186/s12864-018-5156-1">https://doi.org/10.1186/s12864-018-5156-1</a>.
+2. Thanh Hai Dang\*, **Quang Thinh Trac\***, Huy Kinh Phan, Manh Cuong Nguyen, Quynh Trang Pham Thi. SKIPHOS: non-kinase specific phosphorylation site prediction with random forests and amino acid skip-gram embeddings, biorxiv. <a href="https://doi.org/10.1101/793794">https://doi.org/10.1101/793794</a>.
+
+\* Authors contributed equally
+
+---
