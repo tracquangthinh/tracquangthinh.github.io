@@ -1,5 +1,5 @@
 title: Trac Quang Thinh
-url: "https://tracquangthinh.github.io"
+url: "https://tracthinh.github.io"
 # baseurl: "/researcher"
 
 markdown: kramdown
@@ -20,5 +20,3 @@ nav:
    link: "/"
  - name: "Tools"
    link: "tool"
-
-theme: jekyll-theme-cayman
