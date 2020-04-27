@@ -20,3 +20,5 @@ nav:
    link: "/"
  - name: "Tools"
    link: "tool"
+
+theme: jekyll-theme-cayman
