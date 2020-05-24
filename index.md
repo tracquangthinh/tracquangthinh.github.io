@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Currently, I'm a research assistant under the supervision of <a href="https://staff.ki.se/people/nghvu">Prof. Nghia Vu</a> and <a href="http://fafner.meb.ki.se/personal/yudpaw/" target="_blank">Prof. Yudi Pawitan</a> at Department of Medical Epidemiology and Biostatistics, Karolinska Institutet. My interesting research focuses on developments of computational methods for genomic data.
+Currently, I'm a research assistant under the supervision of <a href="https://staff.ki.se/people/nghvu">Assistant Prof. Nghia Vu</a> and <a href="http://fafner.meb.ki.se/personal/yudpaw/" target="_blank">Prof. Yudi Pawitan</a> at Department of Medical Epidemiology and Biostatistics, Karolinska Institutet. My interesting research focuses on developments of computational methods for genomic data.
 
 Email: <a href="mailto:quang.thinh.trac@ki.se">quang.thinh.trac{at}ki.se</a> \| Github: <a href="https://github.com/tracquangthinh">tracquangthinh</a>
 
