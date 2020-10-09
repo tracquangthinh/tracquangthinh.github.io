@@ -14,3 +14,7 @@ it means I haven't read it :)).
   we can calculate p-value and confident interval (CI) for intercept *beta0* (like *lm* function from R) and *beta0* is the mean of the group (using OLS). Thus we can
   have p-value and CI of *y_hat = a number* by using linear regression or t-test and linear regression provide same results.
   
+#### 10th October 2020
+- [Bessel's correction](https://en.wikipedia.org/wiki/Bessel%27s_correction)
+  - **Summary**: Why do we divive *n-1* when calculating population variance? That's because the population variance is estimated based on the sample variance
+  but this estimation is biased. Hence we need *n-1* as the correction.
