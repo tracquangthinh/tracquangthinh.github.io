@@ -22,4 +22,4 @@ it means I haven't read it :)).
 - [Wilk's theorem](https://stephens999.github.io/fiveMinuteStats/wilks.html)
   - **Summary**: Likelihood ratio follows chi-square distribution when the number of sample is large enough.
 - [GLM Deviance](https://bookdown.org/egarpor/PM-UC3M/glm-deviance.html)
-  - **Summary**: The generalized definition of Sum Squared Error(SSE). It's also the foundation of R2
+  - **Summary**: The generalized definition of Sum Squared Error(SSE). It's also the foundation of R2 or mainly using to compare models (In all likelihood, p.168)
