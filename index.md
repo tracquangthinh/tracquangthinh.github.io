@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Currently, I'm a research assistant under the supervision of <a href="https://staff.ki.se/people/nghvu">Assistant Prof. Nghia Vu</a> and <a href="http://fafner.meb.ki.se/personal/yudpaw/" target="_blank">Prof. Yudi Pawitan</a> at Department of Medical Epidemiology and Biostatistics, Karolinska Institutet. My interesting research focuses on developments of computational methods for genomic data.
+Currently, I'm a PhD student under the supervision of <a href="https://staff.ki.se/people/nghvu">Assistant Prof. Nghia Vu</a> and <a href="http://fafner.meb.ki.se/personal/yudpaw/" target="_blank">Prof. Yudi Pawitan</a> at Department of Medical Epidemiology and Biostatistics, Karolinska Institutet. My interesting research focuses on developments of computational methods for genomic data.
 
 Email: <a href="mailto:quang.thinh.trac@ki.se">quang.thinh.trac{at}ki.se</a> \| Github: <a href="https://github.com/tracquangthinh">tracquangthinh</a>
 
@@ -14,7 +14,8 @@ Email: <a href="mailto:quang.thinh.trac@ki.se">quang.thinh.trac{at}ki.se</a> \| 
 
 Year | University | Country
 ------|-------|--
-2020 - Present | RA - Karolinska Institutet | <img src="img/sweden.png" style="width:32px;height:32px;display: block;margin-left: auto;margin-right: auto;">
+11/2020 - Present | PhD Student - Karolinska Institutet | <img src="img/sweden.png" style="width:32px;height:32px;display: block;margin-left: auto;margin-right: auto;">
+01/2020 - 10/2020 | RA - Karolinska Institutet | <img src="img/sweden.png" style="width:32px;height:32px;display: block;margin-left: auto;margin-right: auto;">
 2018 - 2019 | Msc. - Japan Advanced Institute of Science and Technology| <img src="img/japan.png" style="width:32px;height:32px;display: block;margin-left: auto;margin-right: auto;">
 2013 - 2017 | Bsc. - VNU University of Engineering and Technology| <img src="img/vietnam.png" style="width:32px;height:32px;display: block;margin-left: auto;margin-right: auto;">
 
