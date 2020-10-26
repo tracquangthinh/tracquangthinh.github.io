@@ -23,3 +23,7 @@ it means I haven't read it :)).
   - **Summary**: Likelihood ratio follows chi-square distribution when the number of sample is large enough.
 - [GLM Deviance](https://bookdown.org/egarpor/PM-UC3M/glm-deviance.html)
   - **Summary**: The generalized definition of Sum Squared Error(SSE). It's also the foundation of R2 or mainly using to compare models (In all likelihood, p.168)
+
+#### 26th Octorber 2020
+- [What's a good scale, original or log(y), p.22, GLM book, Nelder](http://www.utstat.toronto.edu/~brunner/oldclass/2201s11/readings/glmbook.pdf)
+  - **Summary**: For classical linear model, a good scale should have constancy of variance, approximate normality of errors, additivity of effects
