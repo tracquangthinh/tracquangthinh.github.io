@@ -1,5 +1,5 @@
 This is a note what I found and read about statistical methods and my relevant personal questions, maybe other topics sometimes.
-I try to summarize what I have understood but life is hard, thus many summaries here are totally wrong. If you see some topics lack of their summary,
+I try to summarize what I have understood but life is hard, thus many summaries here maybe totally wrong. If you see some topics lack of their summary,
 it means I haven't read it :)).
 
 #### 9th October 2020
@@ -26,4 +26,6 @@ it means I haven't read it :)).
 
 #### 26th Octorber 2020
 - [What's a good scale, original or log(y), p.22, GLM book, Nelder](http://www.utstat.toronto.edu/~brunner/oldclass/2201s11/readings/glmbook.pdf)
-  - **Summary**: For classical linear model, a good scale should have constancy of variance, approximate normality of errors, additivity of effects
+  - **Summary**: For classical linear model, a good scale should have constancy of variance, approximate normality of errors, additivity of effects.
+- [Sufficient statistic](https://en.wikipedia.org/wiki/Sufficient_statistic)
+  - **Summary**: When using likelihood-based inference, two sets of data yielding the same value for the sufficient statistic T(X) will always yield the same inferences about θ
