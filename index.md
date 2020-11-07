@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Currently, I'm a PhD student under the supervision of <a href="https://staff.ki.se/people/nghvu">Assistant Prof. Nghia Vu</a> and <a href="http://fafner.meb.ki.se/personal/yudpaw/" target="_blank">Prof. Yudi Pawitan</a> at Department of Medical Epidemiology and Biostatistics, Karolinska Institutet. My interesting research focuses on developments of computational methods for genomic data.
+Currently, I'm a PhD student at Department of Medical Epidemiology and Biostatistics (MEB), Karolinska Institutet. My interesting research focuses on developments of statistical and computational methods for genomic data.
+
+My supervisors are  <a href="https://staff.ki.se/people/nghvu">Assistant Prof. Nghia Vu</a>, <a href="http://fafner.meb.ki.se/personal/yudpaw/" target="_blank">Prof. Yudi Pawitan</a>, <a href="https://staff.ki.se/people/fanfan" target="_blank">Prof. Fang Fang</a>, <a href="https://staff.ki.se/people/matran" target="_blank"> Assoc Prof. Mattias Rantalainen</a>
 
 Email: <a href="mailto:quang.thinh.trac@ki.se">quang.thinh.trac{at}ki.se</a> \| Github: <a href="https://github.com/tracquangthinh">tracquangthinh</a>
 
