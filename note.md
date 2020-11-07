@@ -24,8 +24,12 @@ it means I haven't read it :)).
 - [GLM Deviance](https://bookdown.org/egarpor/PM-UC3M/glm-deviance.html)
   - **Summary**: The generalized definition of Sum Squared Error(SSE). It's also the foundation of R2 or mainly using to compare models (In all likelihood, p.168)
 
-#### 26th Octorber 2020
+#### 26th October 2020
 - [What's a good scale, original or log(y), p.22, GLM book, Nelder](http://www.utstat.toronto.edu/~brunner/oldclass/2201s11/readings/glmbook.pdf)
   - **Summary**: For classical linear model, a good scale should have constancy of variance, approximate normality of errors, additivity of effects.
 - [Sufficient statistic](https://en.wikipedia.org/wiki/Sufficient_statistic)
   - **Summary**: When using likelihood-based inference, two sets of data yielding the same value for the sufficient statistic T(X) will always yield the same inferences about θ
+  
+#### 8th November 2020
+- [Empirical distribution](https://en.wikipedia.org/wiki/Empirical_distribution_function)
+  - **Summary**: Observed distribution. In R, using ecdf to calculate empirical cummulative distribution function and then p-value.
