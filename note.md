@@ -33,3 +33,7 @@ it means I haven't read it :)).
 #### 8th November 2020
 - [Empirical distribution](https://en.wikipedia.org/wiki/Empirical_distribution_function)
   - **Summary**: Observed distribution. In R, using ecdf to calculate empirical cummulative distribution function and then p-value.
+  
+#### 9th November 2020
+- [Boostrapping for empirical p-value](https://janhove.github.io/teaching/2016/12/20/bootstrapping)
+  - **Summary**: When you want to calculate p-value of a object belonging to a set but your facing problem is the small sample size. Boostraping should be your solution!
