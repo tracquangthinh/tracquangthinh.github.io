@@ -33,4 +33,8 @@ Year | University | Country
 
 \* Authors contributed equally
 
+## Challenges
+- [CTD2 BeatAML DREAM Challenge](https://www.synapse.org/#!Synapse:syn20940518/wiki/596265)
+  - 3th in the first sub-challenge: quantitative ex vivo drug sensitivity prediction
+  - 2nd in the second sub-challenge: clinical response prediction
 ---
