@@ -37,3 +37,7 @@ it means I haven't read it :)).
 #### 9th November 2020
 - [Boostrapping for empirical p-value](https://janhove.github.io/teaching/2016/12/20/bootstrapping)
   - **Summary**: When you want to calculate p-value of a object belonging to a set but your facing problem is the small sample size. Boostraping should be your solution!
+
+#### 26th November 2020
+- [Why we need a canonical (natural) parameter in the exponential family?](https://www.quora.com/What-is-a-natural-parameter%E2%80%9D-of-an-exponential-family-and-why-is-it-helpful)
+  - **Summary**: Natural parameter is just like its name, belongs to R instead of a range. And easier for derivatives.
