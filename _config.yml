@@ -5,7 +5,7 @@ url: "https://tracthinh.github.io"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+tracking_id: G-0K1QMSJSPX
 
 footer: no
 footer_url: "https://github.com/ankitsultana"
@@ -20,3 +20,4 @@ nav:
    link: "/"
  - name: "Tools"
    link: "tool"
+
