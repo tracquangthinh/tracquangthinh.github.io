@@ -10,7 +10,7 @@ Currently, I'm a PhD student at Department of Medical Epidemiology and Biostatis
 
 My supervisors are  <a href="https://staff.ki.se/people/nghvu">Assistant Prof. Nghia Vu</a>, <a href="http://fafner.meb.ki.se/personal/yudpaw/" target="_blank">Prof. Yudi Pawitan</a>, <a href="https://staff.ki.se/people/fanfan" target="_blank">Prof. Fang Fang</a>, <a href="https://staff.ki.se/people/matran" target="_blank"> Assoc Prof. Mattias Rantalainen</a>
 
-Email: <a href="mailto:quang.thinh.trac@ki.se">quang.thinh.trac{at}ki.se</a> \| Github: <a href="https://github.com/tracquangthinh">tracquangthinh</a> | Scholar: <a href="https://scholar.google.com/citations?user=gkQ5GmIAAAAJ&hl=en">tracquangthinh</a>
+Email: <a href="mailto:quang.thinh.trac@ki.se">quang.thinh.trac{at}ki.se</a> \| Github: <a href="https://github.com/tracquangthinh">tracquangthinh</a> \| Scholar: <a href="https://scholar.google.com/citations?user=gkQ5GmIAAAAJ&hl=en">tracquangthinh</a>
 
 ## Education
 
