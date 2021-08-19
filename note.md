@@ -41,3 +41,9 @@ it means I haven't read it :)).
 #### 26th November 2020
 - [Why we need a canonical (natural) parameter in the exponential family?](https://www.quora.com/What-is-a-natural-parameter%E2%80%9D-of-an-exponential-family-and-why-is-it-helpful)
   - **Summary**: Natural parameter is just like its name, belongs to R instead of a range. And easier for derivatives.
+
+#### 19th August 2021
+- [When should we use log-scale?](https://stats.stackexchange.com/questions/27951/when-are-log-scales-appropriate)
+  - **Summary**: Using log-scale for visualization is not simple as stretching the graph to help our eyes. Log-scale should be used when the data follow the log-scaled distribution (e.g drug concentrations) or for timeseries problems.
+- [chi-square can be used only for counts data](#)
+  - **Summary**: Never use the chi-square formula to calculate some kind of errors... 
