@@ -27,6 +27,7 @@ Year | University | Country
 
 ## Publications
 
+1. Dat Thanh Nguyen, **Quang Thinh Trac**, Thi-Hau Nguyen, Ha-Nam Nguyen, Nir Ohad, Yudi Pawitan, Trung Nghia Vu. Circall: fast and accurate methodology for discovery of circular RNAs from paired-end RNA-sequencing data, BMC Bioinformatics 22, 495 (2021). <a href="https://doi.org/10.1186/s12859-021-04418-8">https://doi.org/10.1186/s12859-021-04418-8</a>
 1. Trung Nghia Vu, Wenjiang Deng, **Quang Thinh Trac**, Stefano Calza, WoochangHwang, Yudi Pawitan. A fast detection of fusion genes from paired-end RNA-seq data,BMC Genomics 2018 19:786. <a href="https://doi.org/10.1186/s12864-018-5156-1">https://doi.org/10.1186/s12864-018-5156-1</a>.
 2. Thanh Hai Dang\*, **Quang Thinh Trac\***, Huy Kinh Phan, Manh Cuong Nguyen, Quynh Trang Pham Thi. SKIPHOS: non-kinase specific phosphorylation site prediction with random forests and amino acid skip-gram embeddings, biorxiv. <a href="https://doi.org/10.1101/793794">https://doi.org/10.1101/793794</a>.
 
