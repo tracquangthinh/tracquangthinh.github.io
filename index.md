@@ -27,9 +27,11 @@ Year | University | Country
 
 ## Publications
 
-1. Dat Thanh Nguyen, **Quang Thinh Trac**, Thi-Hau Nguyen, Ha-Nam Nguyen, Nir Ohad, Yudi Pawitan, Trung Nghia Vu. Circall: fast and accurate methodology for discovery of circular RNAs from paired-end RNA-sequencing data, BMC Bioinformatics 22, 495 (2021). <a href="https://doi.org/10.1186/s12859-021-04418-8">https://doi.org/10.1186/s12859-021-04418-8</a>
-1. Trung Nghia Vu, Wenjiang Deng, **Quang Thinh Trac**, Stefano Calza, WoochangHwang, Yudi Pawitan. A fast detection of fusion genes from paired-end RNA-seq data,BMC Genomics 2018 19:786. <a href="https://doi.org/10.1186/s12864-018-5156-1">https://doi.org/10.1186/s12864-018-5156-1</a>.
-2. Thanh Hai Dang\*, **Quang Thinh Trac\***, Huy Kinh Phan, Manh Cuong Nguyen, Quynh Trang Pham Thi. SKIPHOS: non-kinase specific phosphorylation site prediction with random forests and amino acid skip-gram embeddings, biorxiv. <a href="https://doi.org/10.1101/793794">https://doi.org/10.1101/793794</a>.
+1. **Quang Thinh Trac**, Yudi Pawitan, Tian Mou, Tom Erkers, Paivi  ̈Ostling, Anna Bohlin, Albin  ̈Osterroos, Mattias Vesterlund, Rozbeh Jafari, Ioannis Siavelis, Helena Backvall, Santeri Kiviluoto, Lukas M. Orre, Mattias Rantalainen, Janne Lehtio, Soren Lehmann, Olli Kallioniemi, and Trung Nghia Vu. Prediction model for drug response of acute myeloid leukemia patients. npj Precis. Onc. 7, 32 (2023). <a href="https://doi.org/10.1038/s41698-023-00374-z">https://doi.org/10.1038/s41698-023-00374-z</a>.
+2. **Quang Thinh Trac**, Tingyou Zhou, Yudi Pawitan, Trung Nghia Vu, Discovery of druggable cancer-specific pathways with application in acute myeloid leukemia, GigaScience, Volume 11, 2022, giac091, <a href="https://doi.org/10.1093/gigascience/giac091">https://doi.org/10.1093/gigascience/giac091</a>.
+3. Dat Thanh Nguyen, **Quang Thinh Trac**, Thi-Hau Nguyen, Ha-Nam Nguyen, Nir Ohad, Yudi Pawitan, Trung Nghia Vu. Circall: fast and accurate methodology for discovery of circular RNAs from paired-end RNA-sequencing data, BMC Bioinformatics 22, 495 (2021). <a href="https://doi.org/10.1186/s12859-021-04418-8">https://doi.org/10.1186/s12859-021-04418-8</a>
+4. Trung Nghia Vu, Wenjiang Deng, **Quang Thinh Trac**, Stefano Calza, WoochangHwang, Yudi Pawitan. A fast detection of fusion genes from paired-end RNA-seq data,BMC Genomics 2018 19:786. <a href="https://doi.org/10.1186/s12864-018-5156-1">https://doi.org/10.1186/s12864-018-5156-1</a>.
+5. Thanh Hai Dang\*, **Quang Thinh Trac\***, Huy Kinh Phan, Manh Cuong Nguyen, Quynh Trang Pham Thi. SKIPHOS: non-kinase specific phosphorylation site prediction with random forests and amino acid skip-gram embeddings, biorxiv. <a href="https://doi.org/10.1101/793794">https://doi.org/10.1101/793794</a>.
 
 \* Authors contributed equally
 
