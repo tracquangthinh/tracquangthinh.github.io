@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-I finished my PhD degree at Department of Medical Epidemiology and Biostatistics (MEB), Karolinska Institutet. My research interest focuses on developments of statistical and computational methods for omics data.
+I completed my PhD in the Department of Medical Epidemiology and Biostatistics (MEB) at Karolinska Institutet. My research interests focus on developing statistical and computational methods for omics data.
 
 Email: <a href="mailto:quang.thinh.trac@ki.se">quang.thinh.trac{at}ki.se</a> \| Github: <a href="https://github.com/tracquangthinh">tracquangthinh</a> \| Scholar: <a href="https://scholar.google.com/citations?user=gkQ5GmIAAAAJ&hl=en">tracquangthinh</a>
 
